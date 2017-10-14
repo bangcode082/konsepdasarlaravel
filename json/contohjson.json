@@ -1,0 +1,16 @@
+{
+	"nomor_antrian" : 20,
+	"nama" : "Firman",
+	"menikah" : false,
+	"hobi" : ["memancing", "berenang", "bersepeda"], "alamat" : {
+		"jalan" : "Pakuan No. 12",
+		"kota" : "Bandung",
+		"provinsi" : "Jawa Barat",
+		"kode_pos" : "43655"
+	},
+	"telpon" : [
+		{ "jenis" : "rumah", "nomor" : "022-345352" },
+		{ "jenis" : "mobile", "nomor" : "0878-23422321" }
+	],
+	"istri" : null 
+}
